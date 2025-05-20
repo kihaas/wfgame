@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WolfEggCatch/1.0.0": {
+        "runtime": {
+          "WolfEggCatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WolfEggCatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

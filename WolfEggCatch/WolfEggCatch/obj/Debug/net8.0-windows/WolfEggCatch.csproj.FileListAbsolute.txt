@@ -1,0 +1,16 @@
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\bin\Debug\net8.0-windows\WolfEggCatch.exe
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\bin\Debug\net8.0-windows\WolfEggCatch.deps.json
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\bin\Debug\net8.0-windows\WolfEggCatch.runtimeconfig.json
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\bin\Debug\net8.0-windows\WolfEggCatch.dll
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\bin\Debug\net8.0-windows\WolfEggCatch.pdb
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.Form1.resources
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.csproj.GenerateResource.cache
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.AssemblyInfoInputs.cache
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.AssemblyInfo.cs
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.csproj.CoreCompileInputs.cache
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.dll
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\refint\WolfEggCatch.dll
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.pdb
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.genruntimeconfig.cache
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\ref\WolfEggCatch.dll
