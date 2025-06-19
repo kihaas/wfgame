@@ -14,3 +14,4 @@ C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\refi
 C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.pdb
 C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.genruntimeconfig.cache
 C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\ref\WolfEggCatch.dll
+C:\Users\vi\source\repos\WolfEggCatch\WolfEggCatch\obj\Debug\net8.0-windows\WolfEggCatch.Properties.Resources.resources

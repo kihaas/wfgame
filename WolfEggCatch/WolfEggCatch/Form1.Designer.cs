@@ -15,46 +15,53 @@
 
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.wolfPictureBox = new System.Windows.Forms.PictureBox();
-            this.scoreLabel = new System.Windows.Forms.Label();
-            this.gameTimer = new System.Windows.Forms.Timer(this.components);
-            ((System.ComponentModel.ISupportInitialize)(this.wolfPictureBox)).BeginInit();
-            this.SuspendLayout();
+            components = new System.ComponentModel.Container();
+            wolfPictureBox = new PictureBox();
+            scoreLabel = new Label();
+            gameTimer = new System.Windows.Forms.Timer(components);
+            bindingSource1 = new BindingSource(components);
+            ((System.ComponentModel.ISupportInitialize)wolfPictureBox).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
+            SuspendLayout();
+            
 
-            // wolfPictureBox
-            this.wolfPictureBox.Location = new System.Drawing.Point(0, 0);
-            this.wolfPictureBox.Name = "wolfPictureBox";
-            this.wolfPictureBox.Size = new System.Drawing.Size(100, 50);
-            this.wolfPictureBox.TabIndex = 0;
-            this.wolfPictureBox.TabStop = false;
+            wolfPictureBox.Location = new Point(0, 0);
+            wolfPictureBox.Margin = new Padding(4, 3, 4, 3);
+            wolfPictureBox.Name = "wolfPictureBox";
+            wolfPictureBox.Size = new Size(117, 58);
+            wolfPictureBox.TabIndex = 0;
+            wolfPictureBox.TabStop = false;
 
-            // scoreLabel
-            this.scoreLabel.AutoSize = true;
-            this.scoreLabel.Location = new System.Drawing.Point(0, 0);
-            this.scoreLabel.Name = "scoreLabel";
-            this.scoreLabel.Size = new System.Drawing.Size(35, 13);
-            this.scoreLabel.TabIndex = 1;
-            this.scoreLabel.Text = "Счет:";
+ 
+            scoreLabel.AutoSize = true;
+            scoreLabel.Location = new Point(0, 0);
+            scoreLabel.Margin = new Padding(4, 0, 4, 0);
+            scoreLabel.Name = "scoreLabel";
+            scoreLabel.Size = new Size(36, 15);
+            scoreLabel.TabIndex = 1;
+            scoreLabel.Text = "Счет:";
 
-            // gameTimer
-            this.gameTimer.Interval = 20;
 
-            // Form1
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 600);
-            this.Controls.Add(this.scoreLabel);
-            this.Controls.Add(this.wolfPictureBox);
-            this.Name = "Form1";
-            this.Text = "Волк ловит яйца";
-            ((System.ComponentModel.ISupportInitialize)(this.wolfPictureBox)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            gameTimer.Interval = 20;
+
+ 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(933, 692);
+            Controls.Add(scoreLabel);
+            Controls.Add(wolfPictureBox);
+            Margin = new Padding(4, 3, 4, 3);
+            Name = "Form1";
+            Text = "Волк ловит яйца";
+            ((System.ComponentModel.ISupportInitialize)wolfPictureBox).EndInit();
+            ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         private System.Windows.Forms.PictureBox wolfPictureBox;
         private System.Windows.Forms.Label scoreLabel;
         private System.Windows.Forms.Timer gameTimer;
+        private BindingSource bindingSource1;
     }
 }
